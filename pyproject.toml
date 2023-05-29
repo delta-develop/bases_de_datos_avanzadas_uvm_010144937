@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "bases_de_datos_avanzadas_uvm_010144937"
+version = "0.1.0"
+description = ""
+authors = ["Leonardo HG <leonardohg.ipn@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.95.2"
+uvicorn = "^0.22.0"
+Jinja2 = "^3.1.2"
+python-multipart = "^0.0.6"
+black = "^23.3.0"
+xmltodict = "^0.13.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
