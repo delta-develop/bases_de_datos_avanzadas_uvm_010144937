@@ -12,6 +12,8 @@ Jinja2 = "^3.1.2"
 python-multipart = "^0.0.6"
 black = "^23.3.0"
 xmltodict = "^0.13.0"
+Django = "^4.2.1"
+djangorestframework = "^3.14.0"
 
 [tool.poetry.dev-dependencies]
 
