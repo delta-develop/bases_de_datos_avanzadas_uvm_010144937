@@ -14,6 +14,7 @@ black = "^23.3.0"
 xmltodict = "^0.13.0"
 Django = "^4.2.1"
 djangorestframework = "^3.14.0"
+Faker = "^18.10.1"
 
 [tool.poetry.dev-dependencies]
 

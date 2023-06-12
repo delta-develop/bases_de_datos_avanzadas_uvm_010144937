@@ -8,6 +8,6 @@ class Persona(models.Model):
     curp = models.TextField()
 
     class Meta:
-        db_table = "Personas"
+        db_table = "Persona"
 
 
